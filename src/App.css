@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    /* background: #1a1e23; */
+    background: linear-gradient(rgb(190, 56, 179), rgb(70, 193, 209));
+}
+
+.footer {
+    background-color: transparent;
+    /* border-top:2px solid red; */
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    color: white;
+    font-size: 15px;
+    text-align: center;
+   }
+
+body {
+    background: linear-gradient(-45deg, #e7366b, #c2e73b, #e239b8, #73d523);
+    background-size: 400% 400%;
+    animation: gradient 15s ease infinite;
+}
+
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
