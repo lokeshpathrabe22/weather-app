@@ -9,3 +9,5 @@ REACT
 WEATHER API
 STYLED COMPONENTS
 REACT HOOK FORM
+
+<img src="https://github.com/lokeshpathrabe22/weather-app/blob/main/public/IMAGES/we.png" alt="alt text" width="whatever" height="whatever">
